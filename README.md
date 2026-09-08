@@ -1,4 +1,4 @@
-# E-Compiler
+# E++-Compiler
 
 E-Compiler is a C++ based compiler project for processing E++ expressions and generating corresponding target code.
 
