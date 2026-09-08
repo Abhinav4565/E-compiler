@@ -171,19 +171,7 @@ These generated files don't need to be committed to the Git repository.
 
 ---
 
-## 🔧 Future Improvements
 
-- Better error handling
-- Improved syntax validation
-- More arithmetic operations
-- More detailed compiler error messages
-- Optimization of generated target code
-- Improved memory management
-- Additional test cases
-- Cross-platform execution support
-- Improved documentation
-
----
 
 ## 👨‍💻 Author
 
